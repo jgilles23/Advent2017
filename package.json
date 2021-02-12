@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jgilles23/Advent2017/issues"
   },
-  "homepage": "https://github.com/jgilles23/Advent2017#readme"
+  "homepage": "https://github.com/jgilles23/Advent2017#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
